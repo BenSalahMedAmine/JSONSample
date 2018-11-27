@@ -1,6 +1,6 @@
 [
     {
-        "formatted_address" : "Avenue Taib Mehiri, Sousse, Tunisie",
+        "address" : "Avenue Taib Mehiri, Sousse, Tunisie",
         "lat" : 35.8390104,
         "lng" : 10.6315279,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -8,7 +8,7 @@
         "name" : "Restaurant l'escargot"
     },
     {
-        "formatted_address" : "ave Mohamed V, Sousse, Tunisie",
+        "address" : "ave Mohamed V, Sousse, Tunisie",
         "lat" : 35.8264293,
         "lng" : 10.6414711,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -16,7 +16,7 @@
         "name" : "Restaurant Lido"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.84288100000001,
         "lng" : 10.624938,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -24,7 +24,7 @@
         "name" : "Restaurant Farmer's Steakhouse"
     },
     {
-        "formatted_address" : "Avenue Taïeb Mehiri, Sousse, Tunisie",
+        "address" : "Avenue Taïeb Mehiri, Sousse, Tunisie",
         "lat" : 35.8400726,
         "lng" : 10.6269119,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -32,7 +32,7 @@
         "name" : "THE FIRST coffee & resto"
     },
     {
-        "formatted_address" : "Avenue Taïeb Mehiri, Sousse, Tunisie",
+        "address" : "Avenue Taïeb Mehiri, Sousse, Tunisie",
         "lat" : 35.840024,
         "lng" : 10.6275183,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -40,7 +40,7 @@
         "name" : "Restaurant Le Surfin"
     },
     {
-        "formatted_address" : "Avenue Hedi Chaker, Sousse, Tunisie",
+        "address" : "Avenue Hedi Chaker, Sousse, Tunisie",
         "lat" : 35.8364653,
         "lng" : 10.6367689,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -48,7 +48,7 @@
         "name" : "Caruso"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.8250294,
         "lng" : 10.6350983,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -56,7 +56,7 @@
         "name" : "Restaurant Cafe Sales"
     },
     {
-        "formatted_address" : "Boulevard de la Corniche, Sousse, Tunisie",
+        "address" : "Boulevard de la Corniche, Sousse, Tunisie",
         "lat" : 35.8376202,
         "lng" : 10.6336391,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -64,7 +64,7 @@
         "name" : "Planet Food"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.8427794,
         "lng" : 10.6261867,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -72,7 +72,7 @@
         "name" : "Restaurant Una Storia Della Vita"
     },
     {
-        "formatted_address" : "شارع النخيل بخزامة الشرقية بسوسة، Rue des Palmiers, Sousse, Tunisie",
+        "address" : "شارع النخيل بخزامة الشرقية بسوسة، Rue des Palmiers, Sousse, Tunisie",
         "lat" : 35.8502112,
         "lng" : 10.613772,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -80,7 +80,7 @@
         "name" : "Maremar"
     },
     {
-        "formatted_address" : "Hammam Sousse, Tunisie",
+        "address" : "Hammam Sousse, Tunisie",
         "lat" : 35.8639482,
         "lng" : 10.6064267,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -88,7 +88,7 @@
         "name" : "Restaurant Miam's Hammam Sousse"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.8360093,
         "lng" : 10.6371985,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -96,7 +96,7 @@
         "name" : "K-noé"
     },
     {
-        "formatted_address" : "Oued Blibene, Sousse, Tunisie",
+        "address" : "Oued Blibene, Sousse, Tunisie",
         "lat" : 35.846273,
         "lng" : 10.624423,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -104,7 +104,7 @@
         "name" : "Restaurant bocca beach"
     },
     {
-        "formatted_address" : "Hammam Sousse, Tunisie",
+        "address" : "Hammam Sousse, Tunisie",
         "lat" : 35.868449,
         "lng" : 10.6096786,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -112,7 +112,7 @@
         "name" : "Restaurant Le QG"
     },
     {
-        "formatted_address" : "Corniche, Avenue Mongi Slim, Sousse, Tunisie",
+        "address" : "Corniche, Avenue Mongi Slim, Sousse, Tunisie",
         "lat" : 35.8367136,
         "lng" : 10.6334862,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -120,7 +120,7 @@
         "name" : "Damido restaurant"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.8442586,
         "lng" : 10.6192447,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -128,7 +128,7 @@
         "name" : "Ali Chapati"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.8528437,
         "lng" : 10.6093128,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -136,7 +136,7 @@
         "name" : "Zitouna Restaurant"
     },
     {
-        "formatted_address" : "Sousse, Tunisie",
+        "address" : "Sousse, Tunisie",
         "lat" : 35.8312758,
         "lng" : 10.6385496,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -144,7 +144,7 @@
         "name" : "Dell'Arte"
     },
     {
-        "formatted_address" : "Port El Kantaoui, Sousse 4089, Tunisie",
+        "address" : "Port El Kantaoui, Sousse 4089, Tunisie",
         "lat" : 35.8930033,
         "lng" : 10.5982412,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
@@ -152,7 +152,7 @@
         "name" : "Restaurant Le Mediterranee"
     },
     {
-        "formatted_address" : "Boulevard du 14 Janvier, Sousse, Tunisie",
+        "address" : "Boulevard du 14 Janvier, Sousse, Tunisie",
         "lat" : 35.844585,
         "lng" : 10.6243454,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
